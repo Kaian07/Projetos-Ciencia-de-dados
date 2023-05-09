@@ -1,1 +1,4 @@
 # Projetos-Ciencia-de-dados
+
+# [Tratamento e limpeza de dados](https://github.com/Kaian07/Projetos-Ciencia-de-dados/blob/main/Tratamento%20de%20dados.ipynb)
+  Nesse projeto eu realizei uma análise exploratória dos dados para poder entender melhor sobre o que minha base de dados se tratava, junto com uma limpeza de dados, tratando de valores nulos, e fora do domínio do modelo da base de dados(outliers), tratando colunas de valores categóricos e verificando a moda (valor que mais aparece) dos valores deste tipo de coluna, para poder substituir valores outliers ou preencher valores nulos pela moda da coluna, assim como em colunas de valores numéricos, usei a mediana (valor estatístico central que divide os valores entre parte superior e inferior) para substituir outliers ou preencher valores nulos de coluna de valores numéricos.
